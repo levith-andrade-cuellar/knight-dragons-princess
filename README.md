@@ -1,7 +1,7 @@
 # Knight, Dragons, Princess
 
 ## Description
-"Knight, Dragons, Princess" is a plataformer video game I developed for my Introduction to Computer Science class at NYU Abu Dhabi with my classmate Rustem Khassanov. The game is written in Python and utilizes Processing conventions to handle its graphical user interface. 
+"Knight, Dragons, Princess" is a plataformer video game I developed for my Introduction to Computer Science class with my classmate Rustem Khassanov. The game is written in Python and utilizes Processing conventions to handle its graphical user interface. 
 
 ## The Game
 The game follows a brave knight who is tasked with finding a lost princess. In order to find the princess the knight must traverse a dark system of caves with the help of a flashlight equipped with limited battery. 
