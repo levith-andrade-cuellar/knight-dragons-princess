@@ -1,4 +1,5 @@
 # Knight, Dragons, Princess
+
 ## Description
 "Knight, Dragons, Princess" is a plataformer video game I developed for my Introduction to Computer Science class at NYU Abu Dhabi with my classmate Rustem Khassanov. The game is written in Python and utilizes Processing conventions to handle its graphical user interface. 
 
@@ -36,3 +37,11 @@ Most of the game's assets were designed by Levith to provide a cohesive look to 
 1. Download [Processing](https://processing.org/), the software the game was written for.
 2. Clone or download this repository onto your machine.
 3. Keeping all files in the same folder ("kdp"), open the file "kdp.pyde" using Processing.
+
+## Preview 
+<p>The game's title screen — </p>
+<img src="/preview/title-screen.png" alt="Title Screen" width="300"/>
+<p>The knight holding a "sword" close to a dragon — </p>
+<img src="/preview/knight-dragon.png" alt="Knight and Dragon" width="300"/>
+<p>The knight enveloped by an "immunity bubble" touching a dragon egg — </p>
+<img src="/preview/knight-egg.png" alt="Knight and Egg" width="300"/>
