@@ -39,9 +39,10 @@ Most of the game's assets were designed by Levith to provide a cohesive look to 
 3. Keeping all files in the same folder ("kdp"), open the file "kdp.pyde" using Processing.
 
 ## Preview 
-<p>The game's title screen — </p>
+Here are some game screens that exemplify some of above features.
+<p>The game's title screen —</p>
 <img src="/preview/title-screen.png" alt="Title Screen" width="300"/>
-<p>The knight holding a "sword" close to a dragon — </p>
+<p>The knight holding a "sword" close to a dragon —</p>
 <img src="/preview/knight-dragon.png" alt="Knight and Dragon" width="300"/>
-<p>The knight enveloped by an "immunity bubble" touching a dragon egg — </p>
+<p>The knight enveloped by an "immunity bubble" touching a dragon egg —</p>
 <img src="/preview/knight-egg.png" alt="Knight and Egg" width="300"/>
